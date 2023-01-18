@@ -1,0 +1,32 @@
+name: bank_sha
+version: 1.0.0+1
+publish_to: none
+description: A new Flutter project.
+environment: 
+  sdk: '>=2.18.0 <3.0.0'
+
+dependencies: 
+  cupertino_icons: ^1.0.2
+  google_fonts: 3.0.1
+  carousel_slider: 4.1.1
+  url_launcher: 6.1.6
+  another_flushbar: 1.12.29
+  intl: 0.17.0
+  flutter_bloc: 8.1.1
+  equatable: 2.0.5
+  http: 0.13.5
+  image_picker: 0.8.6
+  flutter_secure_storage: 6.0.0
+  flutter: 
+    sdk: flutter
+
+dev_dependencies: 
+  flutter_lints: ^2.0.0
+  flutter_test: 
+    sdk: flutter
+
+flutter: 
+  assets: 
+    - assets/
+  uses-material-design: true
+
