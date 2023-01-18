@@ -1,6 +1,6 @@
 # bank_sha
 
-A new Flutter project.
+Flutter Aplikasi Mobile wallet menggunakan BLoC State Management.
 
 ## Getting Started
 
